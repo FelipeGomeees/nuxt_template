@@ -1,2 +1,2 @@
 # nuxt_template
-Nuxt/Vuetify template
+Nuxt/Vuetify template (WIP)
