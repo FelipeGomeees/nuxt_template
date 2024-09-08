@@ -32,6 +32,12 @@
                 class="form__btn"
                 size="large">Log In</CoreBtn>
             </v-form>
+            <div class="more">
+                <v-divider class="divider"/>
+                <a 
+                class="more__a"
+                href="/forgot">Forgot your password?</a>
+            </div>
         </div>
     </div>
 </template>
