@@ -1,6 +1,4 @@
-$layout-lg: 1264px;
-$layout-md: 960px;
-$layout-sm: 600px;
+@import './theme.scss';
 
 a {
     color: $primary;
