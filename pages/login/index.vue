@@ -30,6 +30,7 @@
                 type="password"/>
                 <CoreBtn
                 class="form__btn"
+                :to="'/home'"
                 size="large">Log In</CoreBtn>
             </v-form>
             <div class="more">
