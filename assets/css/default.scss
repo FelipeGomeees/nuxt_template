@@ -1,0 +1,9 @@
+@import './theme.scss';
+
+a {
+    color: $primary;
+}
+
+a:visited {
+    color: $secondary-dark;
+}

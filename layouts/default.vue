@@ -1,9 +1,7 @@
 <template>
     <v-app>
-        <v-app-bar>
-        </v-app-bar>
-        <v-navigation-drawer>
-        </v-navigation-drawer>
+        <BaseDrawer/>
+        <BaseAppbar/>
         <slot/>
     </v-app>
 </template>
